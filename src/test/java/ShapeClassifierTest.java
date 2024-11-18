@@ -100,7 +100,6 @@ public class ShapeClassifierTest {
         // Actual: "No: Suggestion=Circle"
         String answer = s.evaluateGuess("Circle,Large,Maybe,50");
         assertTrue(answer.startsWith("No: Suggestion=Circle"));
-=======
 
 public class ShapeClassifierTest {
 
